@@ -6,11 +6,12 @@ A Login and Registration System allows users to create an account and then log i
 
 
 OVER VIEW:
-A Login and Registration System is a basic software system used to manage users and control access to an application.
-Registration: New users create an account by entering details such as username and password.
-Login: Registered users enter their username and password to access the system.
+1) A Login and Registration System is a basic software system used to manage users and control access to an application.
+
+2)Registration: New users create an account by entering details such as username and password.
+3)Login: Registered users enter their username and password to access the system.
 Authentication: The system checks whether the entered details match the registered information.
-Security: Passwords should be stored securely to prevent unauthorized access.
+4)Security: Passwords should be stored securely to prevent unauthorized access.
 User-friendly: It provides a simple way for users to create accounts and log in.
 
 Technologies Used in a Login and Registration System:
